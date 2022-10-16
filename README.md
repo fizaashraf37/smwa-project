@@ -47,9 +47,9 @@ Make sure you have python and Node js installed on your system:
   ```sh
    python manage.py runserver
     ```
-- Django server will start on http://localhost:8000/
+- Django backend server will start on http://localhost:8000/
 
-# Setup Frontend
+## Setup Frontend
 - Open a new terminal and navigate to frontend directory
   ```sh
    cd smwa-project/frontend
